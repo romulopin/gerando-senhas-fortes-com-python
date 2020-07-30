@@ -1,5 +1,7 @@
 Script escrito em python através do Jupyter Notebook para gerar senhas fortes utilizando jupyter notebook.
 
+ Esses scripts foram retirados da internet e adaptados jupyter notebook.
+
 Autor: Rômulo Silva Pinheiro
 
 Me sigam nas redes sociais:
